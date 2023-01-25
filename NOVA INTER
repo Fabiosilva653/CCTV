@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1",La 1 (Espanha)
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+#EXTINF:0 type="stream" channelId="-1",La 2 (Espanha)
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+#EXTINF:0 type="stream" channelId="-1",4 (Espanha)
+https://livek.mediaset.es:443/orilinear21/live/linear21/playlist/playlist.isml/playlist-audio_spa=128000-video=4000000.m3u8?hdntl=1674653143-0-L29yaWxpbmVhcjIxL2xpdmUvbGluZWFyMjEvcGxheWxpc3QvcGxheWxpc3QuaXNtbA%3D%3D--155794d1958a5c205d2bda1600269ecc71651aac95273802ae95ef775e3a0f35
+#EXTINF:0 type="stream" channelId="-1",Tele Cinco (Espanha)
+https://livek.mediaset.es:443/orilinear17/live/linear17/playlist/playlist.isml/playlist-audio_spa=128000-video=4000000.m3u8?hdntl=1674653205-0-L29yaWxpbmVhcjE3L2xpdmUvbGluZWFyMTcvcGxheWxpc3QvcGxheWxpc3QuaXNtbA%3D%3D--77d77f0cd0197e6b931ea0bdb65f51432cb51864a9f2c27d83d793b8919101e3
+#EXTINF:0 type="stream" channelId="-1",24horas (Espanha)
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:0 type="stream" channelId="-1",Nova (Espanha)
+http://94.158.219.85:8081/channel/299cf123/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A
+#EXTINF:0 type="stream" channelId="-1",Fdf (Espanha)
+https://livek.mediaset.es:443/orilinear22/live/linear22/playlist/playlist.isml/playlist-audio_spa=128000-video=2800000.m3u8?hdntl=1674653636-0-L29yaWxpbmVhcjIyL2xpdmUvbGluZWFyMjIvcGxheWxpc3QvcGxheWxpc3QuaXNtbA%3D%3D--22763c815fd66e233376667a62e821707952122b0eb7559f9ed8539d1f2aa4ee
+#EXTINF:0 type="stream" channelId="-1",Energy (Espanha)
+https://livek.mediaset.es:443/orilinear19/live/linear19/playlist/playlist.isml/playlist-audio_spa=128000-video=2800000.m3u8?hdntl=1674653694-0-L29yaWxpbmVhcjE5L2xpdmUvbGluZWFyMTkvcGxheWxpc3QvcGxheWxpc3QuaXNtbA%3D%3D--a5748b4d1dc4100f4f4a7a4691f90d0645be1b094e527ee93dda58ccf0c936b0
+#EXTINF:0 type="stream" channelId="-1",Be Mad (Espanha)
+https://livek.mediaset.es:443/orilinear18/live/linear18/playlist/playlist.isml/playlist-audio_spa=128000-video=4000000.m3u8?hdntl=1674653769-0-L29yaWxpbmVhcjE4L2xpdmUvbGluZWFyMTgvcGxheWxpc3QvcGxheWxpc3QuaXNtbA%3D%3D--8e2bee8f5bbec2fa1fd7a07cd6c363ff297fbb06126902ca31f703d6ae653f65
+#EXTINF:0 type="stream" channelId="-1",Divinity (Espanha)
+https://livek.mediaset.es:443/orilinear20/live/linear20/playlist/playlist.isml/playlist-audio_spa=128000-video=2800000.m3u8?hdntl=1674653905-0-L29yaWxpbmVhcjIwL2xpdmUvbGluZWFyMjAvcGxheWxpc3QvcGxheWxpc3QuaXNtbA%3D%3D--7391bde89092a8b2665a1ad1545fdede1a3f42e8f7a0c304318615a1cd762351
+#EXTINF:0 type="stream" channelId="-1",Cinear (Argentina)
+https://538d0bde28ccf.streamlock.net:443/live-cont.ar/cinear/chunklist_w2094679050.m3u8
+#EXTINF:0 type="stream" channelId="-1",Europa Europa
+https://dtvott-abc.akamaized.net/dash_live_1110/dash/1110_EUROPA-video=3838800.dash
+#EXTINF:0 type="stream" channelId="-1",Sundance
+https://bcovlive-a.akamaihd.net:443/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/profile_0/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Love Nature
+https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/amg00090-blueantllc-naturetimeemea-samsungspain/cb543d167c6c638884cb3e65cef042a9f99653fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d505c6cdb7aa36170c7dd78d54146394e28ce87d01bd8e80c0bb2d90f2a2fad7a1e50f51e52963c4353c9f9160db238b7520c07a75c3d017cdeeb49b50d2aa1fd76976f75d2f688714e280904c0444d83f51ce0a6be035adc72a1a16f10d77018b29d43c9dd02bb9ed15f9f47987ef404e0cda2d28f4592e5c035f815eb7b5c0b7533cad63bd7ca59e68b983d68ce3c71451c03abf2c2fb4a71df114005b5fc99be61ae46988b70d0646689e3f925f55800d61968dd836c92efddfd504023adc829194dc2d681fa35b1aedf1c9691e6c86774d9d7197d55c06ed9584750377a7875f6a63797a33190f61d75a91c2324e9ff81b395d9be4b9365fac6e194320829096153d10df2ca3f9c41a90932d019fd486e120de36632c7374bc14aefccf17fd91609b0d88accec0f34f5501a4fe46fe3ef64060c554173ff24f5963d23dc685ac57d11f256209819bc9922f1b5d4ec027be48f9c02cc42a2945a81a42fe94f29500eb7bd1e6f146d3382be375d602c8d15b48291a1601f49acd6ddeecc560f023b3c5b18c4b7b427d5dd9669553de9670b4c38501b9f0fd329f8054a0b21805ee5a91b678c092f62b2e96f1d796484c7bc84c8879a1dfb2f9d9aa9687b750136fd1e0a2467dfb3cd6afc3e4a6c7312d55c330dee51282f80f2e8eb9d9261c79816c869336e23af9724400441666d0de9f75bd653f18613bed9a671c3ed841e40c50cab0e1e9bdabf3dacbfdcb9c1e4aa77edcb84a8bf37bd168395/142/1920x1080_4715744/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",C-Span
+https://cspan1-msl4.c-spanvideo.org/hls/live/2041450-b/cspan1-msl4/hdntl=exp=1674740952~acl=%2f*~data=hdntl~hmac=2b6a29c831cf4433377c422c2d2afbaeb6d15f77ac985bda356bf50c407a2a70/master_1000.m3u8
+#EXTINF:0 type="stream" channelId="-1",C-Span 2
+https://cspan2-msl4.c-spanvideo.org/hls/live/2041481/cspan2-msl4/hdntl=exp=1674741068~acl=%2f*~data=hdntl~hmac=42f363dc8ebb8d508e06f08951aa7ee13266ce27058ab59e70aa0f3a3ec2ea93/master_1000.m3u8
+#EXTINF:0 type="stream" channelId="-1",C-Span 3
+https://cspan3-msl4.c-spanvideo.org/hls/live/2041482-b/cspan3-msl4/hdntl=exp=1674741119~acl=%2f*~data=hdntl~hmac=52ea9827967363dd4126d1e9a55f512dc9782621123c7104a926b485e673a393/master_1000.m3u8
+#EXTINF:0 type="stream" channelId="-1",
