@@ -1,10 +1,12 @@
 
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Fun TV, Fib TV (Bauru-SP)
+https://video01.kshost.com.br:4443/luiz68286/luiz68286/chunklist_w1353594494.m3u8
+
 #EXTINF: -1 tvg-logo="https://imgur.com/8vbSkRM.png" group-title="BRASIL", TV CORDEIRO/TV Evangelizar 
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/chunklist_w277516646.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="BRASIL", TV CLASSICOS DO CINEMA
-https://tv01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
+https://tv01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u
 #EXTINF:0 type="stream" channelId="-1",Fun TV, Fib TV (Bauru-SP)
 #EXTINF: -1 tvg-logo="https://imgur.com/AT7zacR.png" group-title="BRASIL", TV CARUARA
 https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
