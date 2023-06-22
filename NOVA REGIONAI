@@ -2,7 +2,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1",Fun TV, Fib TV (Bauru-SP)
 https://video01.kshost.com.br:4443/luiz68286/luiz68286/chunklist_w1353594494.m3u8
-
+EXTINF:0 type="stream" channelId="-1",TV Guaratuba (Gusratuba-PR)
+https://5a2b083e9f360.streamlock.net/tvguaratuba/tvguaratuba.sdp/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/8vbSkRM.png" group-title="BRASIL", TV CORDEIRO/TV Evangelizar 
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/chunklist_w277516646.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="BRASIL", TV CLASSICOS DO CINEMA
