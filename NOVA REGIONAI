@@ -1,6 +1,8 @@
 
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1",Fun TV, Fib TV (Bauru-SP)
+#EXTINF:0 type="stream" channelId="-1",TV FIB (Bauru-SP)
+https://video01.kshost.com.br/luiz68286/luiz68286/playlist.m3u8?t=1687821040
+#EXTINF:0 type="stream" channelId="-1",TV Guaratuba (Guaratuba-PR)
 https://video01.kshost.com.br:4443/luiz68286/luiz68286/chunklist_w1353594494.m3u8
 EXTINF:0 type="stream" channelId="-1",TV Guaratuba (Gusratuba-PR)
 https://5a2b083e9f360.streamlock.net/tvguaratuba/tvguaratuba.sdp/playlist.m3u8
