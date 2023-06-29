@@ -1,27 +1,22 @@
 
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1",NBT 
+#EXTINF:0 type="stream" channelId="-1",NBT (Belém-PA)
 https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV FIB (Bauru-SP)
 https://video01.kshost.com.br/luiz68286/luiz68286/playlist.m3u8?t=1687821040
 #EXTINF:0 type="stream" channelId="-1",TV Guaratuba (Guaratuba-PR)
 https://video01.kshost.com.br:4443/luiz68286/luiz68286/chunklist_w1353594494.m3u8
-EXTINF:0 type="stream" channelId="-1",TV Guaratuba (Gusratuba-PR)
-https://5a2b083e9f360.streamlock.net/tvguaratuba/tvguaratuba.sdp/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/8vbSkRM.png" group-title="", TV CORDEIRO/TV Evangelizar 
+#EXTINF: -1 tvg-logo="https://imgur.com/8vbSkRM.png" group-title="", TV Cordeiro (Capibaribe-PE)
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/chunklist_w277516646.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/zkkuMXT.png" group-title="", TV CLASSICOS DO CINEMA
-https://tv01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u
-#EXTINF:0 type="stream" channelId="-1",Fun TV, Fib TV (Bauru-SP)
-#EXTINF: -1 tvg-logo="https://imgur.com/AT7zacR.png" group-title="", TV CARUARA
+#EXTINF: -1 tvg-logo="https://imgur.com/AT7zacR.png" group-title="", TV Caruara (Caruara-PE)
 https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/W0mh61k.png" group-title="",TV 100
 https://serv3.videovox.pw/video78531/video78531/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/orzjOsN.png" group-title="",SPORT CLUB INTERNACIONAL
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="",STUDIO TV
+#EXTINF:-1 tvg-logo="https://imgur.com/90joMXl.png" group-title="",Studio TV (Veranópolis-RS)
 https://streamingtv.ddoti.com.br/hls/stream.m3u8
-#EXTINF: -1 tvg-logo="https://imgur.com/tUUmml2.png" group-title="", TRES PASSOS TV
+#EXTINF: -1 tvg-logo="https://imgur.com/tUUmml2.png" group-title="", Três Passos TV (Três Passos-RS)
 https://stmv1.samcast.com.br/pedrohenrique6191/pedrohenrique6191/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vR6qZwB.png" group-title="",TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
@@ -36,7 +31,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980
 https://video01.soultv.com.br/pontepreta/pontepreta/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/gaiXfuL.png" group-title="", OV TV
 https://video01.logicahost.com.br/othervoice/othervoice/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/7u5wBgF.png" group-title="", MID TV
+#EXTINF:-1 tvg-logo="https://imgur.com/7u5wBgF.png" group-title="", MID TV (Palotina-PR)
 https://tv02.zas.media:1936/midtv/midtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zvMUBoA.png" group-title="",INSPIRE
 http://cdn.connectbr.com.br/Inspire/index.m3u8
@@ -44,7 +39,7 @@ http://cdn.connectbr.com.br/Inspire/index.m3u8
 https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/zGVOaA9.png" group-title="",EU TV
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="", ESPORTES BRASILIA
+#EXTINF:-1 tvg-logo="https://imgur.com/gQGj3FY.png" group-title="",Esportes Brasilia (Brasilia-DF)
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="",RS NEWS WEB TV 2
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
@@ -53,7 +48,7 @@ https://alanza.iptv2022.com/RS_NEWS_SPORTS3/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="",RS NEWS WEB TV 4
 https://alanza.iptv2022.com/RS_NEWS_SPORTS_4/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/XCpZ0Iy.png" group-title="",RS NEWS WEB TV 5
-https://alanza.iptv2022.com/RS_NEWS_SPORTS_5/index.m3u8
+https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/bSjSinV.png" group-title="", CANELA SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
 #EXTINF:-1 tvg-logo="https://imgur.com/8AGnSGR.png" group-title="",ENTRETENDO
