@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Ondas Play (Marica-RJ)
+https://stmv5.samcast.com.br:443/portalondasdemarica/portalondasdemarica/chunklist_w1320026483.m3u8
 #EXTINF:0 type="stream" channelId="-1",Vivax TV
 https://cdn.jmvstream.com:443/w/LVW-14375/LVW14375_v81W7a1VHm/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Teen Net
