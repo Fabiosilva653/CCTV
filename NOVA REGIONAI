@@ -1,5 +1,12 @@
 
 #EXTM3U
+
+#EXTINF:0 type="stream" channelId="-1",Rede União (Natal-RN)
+https://rtmp.uniaoplay.com.br:443/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1",Rede Uniao (Fortaleza-CE)
+https://stream-cdn.uniaoplus.com:443/j47fsfH8PB/a228b840d301c58a90271cbbdbfdb5cd.sdp/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1",Rede União (Brasília-DF
+https://stream-cdn.uniaoplus.com:443/l8SnNK6SEB/cef3db0e459d981c982e7021567052f2.sdp/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Ondas Play (Marica-RJ)
 https://stmv5.samcast.com.br:443/portalondasdemarica/portalondasdemarica/chunklist_w1320026483.m3u8
 #EXTINF:0 type="stream" channelId="-1",Vivax TV
