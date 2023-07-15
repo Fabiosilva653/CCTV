@@ -1108,8 +1108,6 @@ https://r9---sn-8p8v-bg0k.googlevideo.com/videoplayback?expire=1633984005&ei=pUl
 https://596639ebdd89b.streamlock.net/8112/8112/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Premium (Osasco-SP)
 https://5c483b9d1019c.streamlock.net:443/8066/8066/chunklist_w470656896.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV União (Natal-RN)
-https://j78dpx4jyq5r-hls-live.5centscdn.com:443/tvuniao/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" aspect-ratio="1,85:1", TV São José (Florianópolis-SC)
 http://177.74.174.57:8080/hls/tvsj.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sidy's Tv (Currais Novos-RN)
@@ -1240,8 +1238,6 @@ https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
 https://stmv1.paineltv.net:443/valeradiowebtv/valeradiowebtv/chunklist_w1898674203.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Nazarena (Nazaré-BA)
 https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV União (Brasilia-DF)
-https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/chunklist_w681178787.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Cidadã (Maceió-AL)
 https://livefocamundo.com:8081/tvcidada/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV CN Agito (Maceió-AL)
