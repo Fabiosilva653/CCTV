@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Astral TV
+https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jdd5Jsa.png" group-title="", PIX TV (Garopaba-SC)https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8AGnSGR.png" group-title="",ENTRETENDO
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
