@@ -1,5 +1,15 @@
 
 #EXTM3U
+EXTINF:0 type="stream" channelId="-1",
+EXTINF:0 type="stream" channelId="-1",
+EXTINF:0 type="stream" channelId="-1",Tele Cine Action
+https://s.m3u9.top/a2/hls1/telecineaction/__index.m3u8?mu3zAQc9HC3GbwJq=In3SVQzxRVAOeDfH5LuRkw&3U1G7qaTxrPbalZnEx=1694749582
+EXTINF:0 type="stream" channelId="-1",CineMax
+https://s.m3u9.top/a2/hls1/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=VG0iwRLy25rEM-Ya4o8iFg&3U1G7qaTxrPbalZnEx=1694749482
+EXTINF:0 type="stream" channelId="-1",CineCanal
+https://s.m3u9.top/a2/hls1/cinecanal/__index.m3u8?mu3zAQc9HC3GbwJq=kx2CwpLajMOF5-EQcdagcQ&3U1G7qaTxrPbalZnEx=1694749302
+EXTINF:0 type="stream" channelId="-1",AXN
+https://s.m3u9.top/a2/hls1/axn/__index.m3u8?mu3zAQc9HC3GbwJq=cvsme7ShdFhuEAw2LBSgLg&3U1G7qaTxrPbalZnEx=1694749121
 #EXTINF:0 type="stream" channelId="-1",Astral TV
 https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jdd5Jsa.png" group-title="", PIX TV (Garopaba-SC)https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
