@@ -1,5 +1,13 @@
 
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Câmara Bauru
+https://www.youtube.com/watch?v=RfleRPmX2S8
+#EXTINF:0 type="stream" channelId="-1",TV Justiça 
+https://www.youtube.com/watch?v=OWeEUedp_6c
+#EXTINF:0 type="stream" channelId="-1",RIT
+https://www.youtube.com/watch?v=4gc7ChQqA98
+#EXTINF:0 type="stream" channelId="-1",TV A Crítica 
+https://www.youtube.com/watch?v=Dyt5K_hInTY
 #EXTINF:0 type="stream" channelId="-1",Amplitude Juina
 https://cdn.jmvstream.com:443/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Senado 
