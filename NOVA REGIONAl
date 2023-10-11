@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Veza TV
+https://vezatv.mediastreaming.com.br:443/vezatv/live.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Litoral RN
 https://stmv1.srvif.com:443/tvlitoralrn/tvlitoralrn/chunklist_w348920290.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Câmara Bauru
