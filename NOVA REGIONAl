@@ -1,28 +1,25 @@
 
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Pop Brasil
+https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",BR8 TV
 https://cdn.jmvstream.com:443/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b2628000.m3u8
 #EXTINF:0 type="stream" channelId="-1",Veza TV
 https://vezatv.mediastreaming.com.br:443/vezatv/live.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Litoral RN
 https://stmv1.srvif.com:443/tvlitoralrn/tvlitoralrn/chunklist_w348920290.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV Câmara Bauru
-https://www.youtube.com/watch?v=RfleRPmX2S8
-#EXTINF:0 type="stream" channelId="-1",TV Justiça 
-https://www.youtube.com/watch?v=OWeEUedp_6c
-#EXTINF:0 type="stream" channelId="-1",RIT
-https://www.youtube.com/watch?v=4gc7ChQqA98
-#EXTINF:0 type="stream" channelId="-1",TV A Crítica 
-https://www.youtube.com/watch?v=Dyt5K_hInTY
-#EXTINF:0 type="stream" channelId="-1",Amplitude Juina
-https://cdn.jmvstream.com:443/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1",TV Senado 
-https://www.youtube.com/watch?v=eGGTtX-adTQ
+#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",
 #EXTINF:0 type="stream" channelId="-1",Record TV Itapoan
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Astral TV
 https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/jdd5Jsa.png" group-title="", PIX TV (Garopaba-SC)https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/jdd5Jsa.png" group-title="", PIX TV (Garopaba-SC)
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8AGnSGR.png" group-title="",ENTRETENDO
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="",CANAL UOL
