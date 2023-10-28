@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",TV Mogiana
+https://cdn2.connectbr.com.br:443/Soultv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Pop Brasil
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",BR8 TV
