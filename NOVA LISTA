@@ -1,5 +1,47 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/bN6nj3U.png" group-title="BRASIL",TV CAMARA RIO
+https://livestream.zazerconer.workers.dev/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/8H12HiW.png" group-title="BRASIL",TV ALERJ
+https://livestream.zazerconer.workers.dev/channel/UCH1a8t5cikU9cYa69BLVfbQ.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/uyFSLBq.png" group-title="BRASIL",TVAL SC
+https://livestream.zazerconer.workers.dev/channel/UCeBR3fhWb-Jyt8i7Hy6_mjA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="BRASIL",CURTA HD
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ehWOLXa.png" group-title="BRASIL",TV OITAVA
+https://video05.logicahost.com.br/tvoitava/tvoitava/chunklist_w1967152207.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/K3OiyWi.png" group-title="BRASIL",TV JUSTICA
+https://livestream.zazerconer.workers.dev/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/lM1al4o.png" group-title="BRASIL",TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/u5xLca3.png" group-title="BRASIL",TV SENADO
+https://livestream.zazerconer.workers.dev/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Mt0Wkul.png" group-title="BRASIL",TV VALE/Rede Minas
+https://video04.logicahost.com.br/tvvale/tvvale/chunklist_w357392585.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rhYQ10O.png" group-title="BRASIL",UNIVESP TV
+http://cdn.connectbr.com.br/UNIVESP/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/vI1ttGb.png" group-title="BRASIL",REDE BELA ALIANCA
+https://tv02.zas.media:1936/rbatv/rbatv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://imgur.com/Ir6uuDE.png" group-title="BRASIL", CANAL EDUCACAO
+https://canaleducacao-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/vZS8yKn.png" group-title="BRASIL", CANAL LIBRAS
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL",VIVA E EDUQUE
+https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://imgur.com/9Ziz928.png" group-title="BRASIL",TV ENCONTRO DAS AGUAS (Amazonas- AM)
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="BRASIL",TVE MS
+http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1",TV Litoral
+https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="BRASIL",GLOBO SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
@@ -13,7 +55,8 @@ https://cdn.jmvstream.com:443/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist
 #EXTINF:0 type="stream" channelId="-1",Veza TV
 https://vezatv.mediastreaming.com.br:443/vezatv/live.stream/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Litoral RN
-https://stmv1.srvif.com:443/tvlitoralrn/tvlitoralrn/chunklist_w348920290.m3u8
+https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w1263783526.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",
 #EXTINF:0 type="stream" channelId="-1",
 #EXTINF:0 type="stream" channelId="-1",
@@ -25,7 +68,7 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1",Astral TV
 https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jdd5Jsa.png" group-title="", PIX TV (Garopaba-SC)
-https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+https://mpix05.tmwpix.com:6516/pix/pixtv_h
 #EXTINF:-1 tvg-logo="https://imgur.com/8AGnSGR.png" group-title="",ENTRETENDO
 http://cdn.connectbr.com.br/Entretendo/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/gxUjodM.png" group-title="",CANAL UOL
@@ -459,7 +502,7 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rede Metrópole/Rede Meio Norte (Assis-SP)
 https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Rede Minas (Belo Horizonte-MG)
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/livestream.m3u8?sts=st=1684761825~exp=1684848825~acl=/*~hmac=82a5bee6166f74d4855cb0f4513955ed737ef51ce16ea2380e6583117983daba
+https://8hzcavccys.zoeweb.tv:443/redeminas/ngrp:redeminas_all/chunklist_b3682304.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/2cXaFN0.png" group-title="",Rede Mosaico
 http://cdn.connectbr.com.br/Mosaico/index.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Rede Mão Amiga (São José dos Pinhais-PR)
@@ -747,7 +790,7 @@ https://stmv.webtv.ninjascast.com.br/tvcapital777/tvcapital777/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Capital (Fortaleza-CE)
 https://stmv1.srvif.com:443/rbc/rbc/chunklist_w1078903501.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVE/TV Brasil (Salvador-BA)
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Omindaré
 https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8?t=1665172972
 #EXTINF:0 type="stream" channelId="-1", TV Rock (Francisco Beltrão-PR)
@@ -825,7 +868,7 @@ https://alanza.iptv2022.com:443/tv_nordestina/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Rio Grande (Fronteira-MG)
 https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sul de Minas
-https://alanza.iptv2022.com:443/Tv_Sul_de_Minas/tracks-v1a1/mono.m3u8
+https://video01.logicahost.com.br/tvsuldeminas/tvsuldeminas/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Clic Brasil/Rede Brasil (Osasco-SP)
 https://alanza.iptv2022.com:443/TV_CLIC_BRASIL/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Lagoa Dantas (Monsenhor HipÃ³lito-PI)
@@ -966,9 +1009,10 @@ https://br5093.streamingdevideo.com.br:443/tvtabela/tvtabela/chunklist_w23493884
 #EXTINF: 0 type = "stream" channelId = "- 1", Rede QDM 2 (HortolÃ¢ndia-SP)
 https://video03.logicahost.com.br:443/tvkidmais01/tvkidmais01/chunklist_w130893699.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", UNITV (Porto Alegre-RS)
-http://unitvaovivo.ufrgs.br:8080/live.ogg
-#EXTINF: 0 type = "stream" channelId = "- 1", TV Terra do Sol (Fortaleza-CE)
-https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CqIFBp1DGqmvMKaPuxS36YR4z8OsM9EBC6QhTrQ_oP-6quMPmIiBnFKOUIVlNjEFR2zBUHQD-oSMRUHzMVutSoSI55KVrRO8xp4qPY2eMBUGwYDRLMEWuufqd1Z8hMQIOkK-LB_2_keJ-0coegxXRSkerA331R_y7tzLiPYHsU3W2RMQMQtUG8h3xf9lZ7bEG49qHxcudXLgRnCd1Hg3g-f9wqPSKE5fUWWdi4z1pYnFGVNo43AgjqLVeYW-VX018bCLyVhPoO96oNVsCuzsiekudy0B1yluAknDsskR8XOUhtpWJpQVNPxeStKMJMCEoqgOWlmHBJ_Z2xjFKg9WWIHBI4rJfZGHYDcMzTaqiCS4LKUHLEoWnFsWNvJhE2IK8KJLpMNA6ouCNSzO_WNpBSgNJ1s_ljqm7bjm3-V4hRR-ImGMF_1pNnmKt5GW1Ie9xQ0PeEbKOv5Bnq8eWcl87dtjAlSrGCe0AUTuF7SFMKdwc9uwZZG_RRFLkTmKzlH9N_kRwtJbUqd8VI4PyBz93xMegMMK3o6uP4YBX4BMBzG413LKOLHD3AEXwF8fQgO8VdozwKN0oDumScjK5nJ4NRq3EPNhm83MSKat9a4gUeGhsfY2Q2g54s5Kor1pm4zUwUtVCt3JdWPQLJTQiaj-5oDv0-eKSVVRd7elJDg9vlbzQT1W60XIDt7JeA7iHlde6xNHVG-s0qjM364j2OMsMuafg6lGgYr238WnN3hj018twuV21dQ9uUU5BIVikHX8s11-kOnjGzM6-oqYM5G-M9SkrAs3UKrNlRXZKlnz7D7XJwu5sGIv9SpwTzT4BCb-nc-sbI-d4A2zpG1oYTXzWc2U46hbnkPaYaA-OzSIAQGkTIKH921ASTCg410Lrenh0LEjXQ8aDNsaD1vmxk2W6owFRyABKgl1cy1lYXN0LTEw4gQ.m3u8
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=9818453201921378000
+
+#EXTINF:0 type="stream" channelId="-1",TV Terra do Sol (Fortaleza-CE)
+https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CsgFWVoZhKHCHAGFq_IviQ_YdZ-5p2sd3hNEya1TKQ1K6WcV2K0OaXD92gQvoZohgBi-gdG1iuuudGFzyzl9WjYtazZTkGKi-dHmGQNZo7hs1w2TREjjj9aU0ScQH3yqzcAqH-oSotOX65AEUxAnHlO9MdKSeVw7qPzU9vGtbUs6TEhrX6RILvPaOAXbBPusZcM_atXfC7vNllO20IASutaO-tdrpxbl5xdqwfR8b-bMRx6paDeLK4fZh_fD9zDLTx-Iab04iLrxZHXYvdh4tXhjBDe5QFWmv490u6Dbw53cJ-ZpXrNG_1PDUBmO_w_k5dmKauIL-yTvthjJOV6pFSm6_EGIXrx63RF8ni9CZy-R5Q0R3DnXg2eXnLIp2LRslm5mRulg2ZZIfYZ4GBxz0J0f1BXuTC5KCtCUtEWc0TOi6cH6TD83a6IViRbMriOGu455Yu23N4VLxwow997Dr31lWYaO8pfEcXSjgFLs4NIaaj7VQvWtd-4dblx2xx-nYXPqPuLA_XsPRIEbL_NoQox5IqcDcn7A4Z6bWVyU9yqRLdSa9VpYneW5UwxclalH7ZDv_YNNGghw9rGLmv1Mr5QdECVOY0t9QScDzV7gxy35qwo9SoDuDLW5uQhFAXlL34Ip5EVyY7IGCWGikAY237-7bVR7dxj8N-_kVeSzm45Q4vmc5nLOvN0eLKUJLPrY17AOV1WWiMvzWJiM9gaXCvvcvx2LAxFclQh-6I4_fq81iWV8zOOVPDw3ao71JmtpsSqUwbnYWtjXNXPkjNa2eEnCOqgzzxQtkSY_rrfcXMdHVmkxjHK9K0BK1JeQSoJqqrKC_klPU8aQWyIgKdFQwIk3DCmd6p1ZbF4vNs7Rzc6KCKqbXhyvCeV5WnrVA3s8s3epHZQS5vbB3iQsfDurkMXTg0rM5d9kN2dsaBfF2NgLMpVpRW15O4a3cBoM3zFoTssQeuu8GyJPIAEqCXVzLWVhc3QtMTCGBw.m3u8
 #EXTINF:0 type="stream" channelId="-1",Vivax TV
 https://cdn.jmvstream.com:443/w/LVW-14375/LVW14375_v81W7a1VHm/chunklist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", VV8 (Valinhos-SP)
@@ -1010,7 +1054,7 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Santa Cecilia (Santos-SP)
 https://60d88f8ce1206.streamlock.net:443/2063/2063/chunklist_w550027518.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Sesc TV (São Paulo-SP)
-https://slbps-ml-sambatech.akamaized.net:443/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
+https://slbps-ml-sambatech.akamaized.net:443/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", TV Água ua Boa/TeleCine Action (Água Boa-MT)
 http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w930228793.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1",TV Sol Brasil
@@ -1128,8 +1172,8 @@ https://5eaa6849d0971.streamlock.net:443/8034/8034/chunklist_w900635994.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", WTV (São Paulo-SP)
 https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1", TV Sul (GuaxupÃ©-MG)
-http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Sul/Rede Minas (Guaxupé-MG)
+https://live.cdn.upx.com:443/00046/myStream.sdp/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", UNB TV (Brasilia-DF)
 https://edge-go-01.eduplay.rnp.br:443/media/ocp(r(uxqJWw)t(AAAAAAAAAAA)p(d(1V0)k(cto)m(CM4T_bcinrdm0s3s9lcD-g)n(a(3SvKKEX2OOhT6h3pe_Y_EFfDaFcT3ac-)s(Q7o)'a(Kvu_4LKWWa79KhEoIpPBfg1d)s(E1o)))s(t(sQg)b(N3U2BrNIlr__FHGgSagEOxUNBPapU6wLgFdu5hPXv3n22-TGb3AbZpfiS1pTXHOIcor3Raeer_hlcpDs4U46She80m7FsanLVSk51ug78m5zYTubhun1nENFuNIPQqeCxWeMblbCz9cyU3nemHSKt5GGW2M5tZ6JW2E_LCs)'t(opI)b(SlmvsQ63fGnFgfUmGie2Lo4LS__fhBdECyA)))/live_1080_index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Nova Manhã (IcapuÃ¬-CE)
