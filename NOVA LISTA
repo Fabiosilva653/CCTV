@@ -1,9 +1,9 @@
 
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1",BBC
-https://mhdworldtv.net/live/sony-bbc-earth-hd/
-#EXTINF:0 type="stream" channelId="-1",Bbc
-https://cdn-tv.co.in:443/sonyliv/watch.php?chunks=0f11485cedb7bd4d50dc0c64d994d84a70416d3d08bcf9e120ea4a33e5168ab6ee46a02d691c43da3a6fb33714e8c0e3c510fce9223afda753f7fac061062e8022f51bc2ac8a78b37e6777be12a3dd08e457e19bf7d0fe6ea3079ec9d93718978ddc198cc67f94e4bd7d601a6b10c12325c4e343e2d2ef092cace537d44660f198021425b0c8e4daa787ef3c06c17eac0c1c913cb6fa2e69cbb2488089c224ca9e04d82ac2dfedf6adce411194d01ae9c8b34549bd1e2e3e6d891ce304d2aa7a3aeadc9ce21c2f214d11e1da5dfcb9adbc931d2aea7170601fdefda2562b3cf4cd1b862ff6e2db6793be90796c062117a5a954a80d2deb0c7fe1c32423ac4dda695e8b3ef8e778324cf27108c2860de71e10a06c811578884a9d64b5cbd52c63a0c108a5bff9e1788db3d6b560c2647a63a4676ebcffca2b113dc34b3f341ca2f13bd2208dc14fcb0fad0d6d62a6cec022b9c0712dfa024186935acaf3973047
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="BRASIL",GLOBO SP
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1",TV Mogiana
 https://cdn2.connectbr.com.br:443/Soultv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Pop Brasil
