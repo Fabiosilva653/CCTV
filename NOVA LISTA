@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",BBC ONE
+https://megacubo.tv/w/UK%20%7C%20BBC%20%20One%20CI%20SD?url=http%3A%2F%2Falienstreams.fi%3A7070%2Fo.aurosell%40gmail.com%2Fp7sXzMu5vU%2F184122.ts&icon=https%3A%2F%2Fd2n0069hmnqmmx.cloudfront.net%2Fepgdata%2F1.0%2Fnewchanlogos%2F80%2F35%2Fskychb2104.png&mediaType=live
 #EXTINF:0 tope="stream" channelId="-1",TV Diário
 https://d1zpubcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Poop TV
