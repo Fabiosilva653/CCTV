@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",Agro Plus
+https://video05.logicahost.com.br:443/agronoar/agronoar/chunklist_w227302053.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV One (Belém-PA)
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TVM (Belém-PA)
