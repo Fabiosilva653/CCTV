@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1", Olha TV
+http://24.152.8.38:5004/live/olhatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Agro Plus (Cuiabá-MT)
 https://usher.ttvnw.net/api/channel/hls/canalagroplus.m3u8?acmb=e30%3D&allow_source=true&browser_family=chrome&browser_version=122.0&cdm=wv&fast_bread=true&os_name=Android&os_version=13&p=1135187&platform=mobile_web&play_session_id=9b9270b360ebe5ced674736950a5a34e&player_backend=mediaplayer&player_version=1.25.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=99f1612d4e222d0edccfdb1d2aaed4b5873d0606&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canalagroplus%22%2C%22channel_id%22%3A1007572824%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22eR3N8RJEllBck55AJf2ujEzo3TcdpO33%22%2C%22expires%22%3A1709464503%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22201.1.78.115%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
 #EXTINF:0 tope="stream" channelId="-1",Rural no AR (Campo Grande- MS)
@@ -32,7 +34,6 @@ https://livestream.zazerconer.workers.dev/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCH1a8t5cikU9cYa69BLVfbQ.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/uyFSLBq.png" group-title="BRASIL",TVAL SC
 https://livestream.zazerconer.workers.dev/channel/UCeBR3fhWb-Jyt8i7Hy6_mjA.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="BRASIL",CURTA HD
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ehWOLXa.png" group-title="BRASIL",TV Oitava (São Gonçalo-RJ)
@@ -59,19 +60,14 @@ https://canaleducacao-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/HnzlMwp.png" group-title="BRASIL",VIVA E EDUQUE
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://imgur.com/9Ziz928.png" group-title="BRASIL",TV Encontro Das Águas (Amazonas- AM)
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/w4RlJdB.png" group-title="BRASIL",TVE MS
 http://stream.digilab.com.br:8081/fertel/fertel/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1",TV Litoral
 https://srv1.saragosonet.com.br/hls/redelitoral/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/EtShVkg.png" group-title="BRASIL",GLOBO SP
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-
 #EXTINF:0 type="stream" channelId="-1",TV Mogiana
 https://cdn2.connectbr.com.br:443/Soultv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Pop Brasil (Rio de Janeiro-RJ)
