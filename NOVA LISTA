@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",TV Visual
+https://stream.ichibantv.com:3874/hybrid/play.m3u8
 #EXTINF:0 tope="stream" channelId="-1", Olha TV
 http://24.152.8.38:5004/live/olhatv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Agro Plus (Cuiabá-MT)
