@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",Rede Família 
+https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Rede Blitz (São Paulo-SP)
 https://video01.logicahost.com.br/redeblitz/redeblitz/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Inova TV (Petrópolis-RJ)
