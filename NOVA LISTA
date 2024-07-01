@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",RTN/TV A Crítica 
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Gazin
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:0 tope="stream" channelId="-1",BetBox TV
