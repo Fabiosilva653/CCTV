@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:0 tope="stream" channelId="-1",BBC
-https://edge-1165-ch-gv.filmon.com/live/14.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeeba3e187f038eac803a5a7e0d521a89f8570f75bf1a4c6a4a4316e6c4162e0597499fec276f82affe78110d5eecdca9c992822e29f7b69e7c800d8a3221093e944bcdecbadff1383a5a614f23b452c504c78f3eeee63c1204706cfc07793385cb3baab75968239c62eca9e9a67d3d75ee191b7da1ad0eeb218b335ea5cc4ffa786a4bc97570eef8f01c4fdf833fa226b
+http://www.elahmad.com/tv/filmo.php?id=14
 #EXTINF:0 tope="stream" channelId="-1",RTN/TV A Crítica 
 https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Gazin
