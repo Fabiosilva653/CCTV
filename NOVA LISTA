@@ -472,7 +472,7 @@ https://promovetv.tk/live/Stream1/playlist.m3u8
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", Q TAL? Channel
 https://video03.logicahost.com.br:443/qtalchannel01/qtalchannel01/chunklist_w902897379.m3u8
-#EXTINF:0 type="stream" channelId="-1", RBC (São Paulo-SP)
+#EXTINF:0 type="stream" channelId="-1", RBC (Salvador-BA)
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist_w553269129.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", RBC (Goiana-PE)
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
@@ -1292,39 +1292,33 @@ https://video04.logicahost.com.br:443/tvcidada/tvcidada/chunklist_w745239334.m3u
 #EXTINF:0 type="stream" channelId="-1", TV CN Agito (Maceió-AL)
 http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Assembléia Paraiba
-http://200.164.225.175/hls/tvalpb.m3u8
+http://tv.al.pb.leg.br/hls/tvalpb.m3u8
 #EXTINF:0 type="stream" channelId="-1", Tv Assembléia Goiâs
-https://ngbvqmbygn.zoeweb.tv/alegolive/smil:alegolive.smil/playlist.m3u8
+https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sertão (Petrolina -PE)
-https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/chunklist_w137094240.m3u8
+https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Semear TV (Teresina-PI)
-https://novo.bitstreaming.info:1936/semeartvstation/semeartvstation/chunklist_w227401884.m3u8
+https://5a0c3936c25c8.streamlock.net/semeartvstation/semeartvstation/playlist.m3u8
 #EXTINF:-1 tvg-id="TVALMG.br" tvg-name="TV ALMG" tvg-   country="" tvg-language="" tvg-logo="" group-title=" ",TV ALMG
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV SDB/TV Cultura (Guanambi-BA)
-https://novo.bitstreaming.info:1936/8094/8094/chunklist_w183523663.m3u8
+https://5a0c3936c25c8.streamlock.net/8094/8094/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV NBN (Governador-BA)
 https://cdn.jmvstream.com:443/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sim TV/Record News (Colatina-ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV UFOP (Ouro Preto-MG)
-https://edge-es-01.eduplay.rnp.br:443/media/ocp(r(aaXrSQ)t(F5Rrz43BJko)p(d(96k)k(qK0)m(uNESboknygaFADq86LoCgw)n(a(K4N3PXfR6Svndpbpi9y2yCJECjY)s(4js)'a(5LygOa87rD-0hUx-lJqyeIIy)s(OFQ)))s(t(NLM)b(_ijKHHktkh8kdXJsuJmGPQxHFsNV2hyO1LJLSF3UjqMa-b1Yh0RyWrFJIAWk6S-R7l4fGgez0PYZLvjXaKwOkxzKHSo2g7TJFScUd47hkzNL8ahAzwU9E_lJjb7arzn45XkkTnjH3tAjh67NZsnetaChHst0jvXVbTA5MBo)'t(s1A)b(HOxSXUWdiM9ibVA3r7artvOOGPnYRLVOMXo)))/720_index.m3u8
+https://edge-es-01.eduplay.rnp.br/media/ocp(r(azYwXQ)t(F-tNIUZmUOU)p(d(TLc)k(U8k)m(b6bt6_S8ryG--cCRxNNRCA)n(a(azA4X01qTSr_U7cPAeEoplxKZ4k)s(00E)'a(UnjbGodDnXLO-XWJVNPZiTVa)s(AFo)'a(2wrUq-COpMxLG8D07iOKcAAE)s(4do)))s(t(tGM)b(5nltx8DT0w2un6LarJxmDItSB89-u6iPZfLE0Au98zpRrGLBhUK-L8X7-j9Tqheh5hieXxVGTCrj0BG9MHS8Gxbdv63sUuRvaxqTrlGLJqlCeZw7LGBwBAdnsVrvSioIFnvBpqT6o4Vp3_um2u5Ld2si4bpUcOJaPhtKy68)'t(t84)b(f4FdLTzDKkrSlGL8WDYWntZ27hII6ePfuCw)))/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Mais Brasil (Jundiai- SP)
 https://stmv1.paineltv.net:443/tvmaisbrasil/tvmaisbrasil/chunklist_w704898242.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Câmara Caxias do Sul
-http://187.63.179.171:1935/live/smil:multibitrate.smil/chunklist_w2059922473_b2628000_slpt.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Tribuna Regional (Londrina-PR)
 https://stmv7.samcast.com.br/fabiorogerio2745/fabiorogerio2745/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", RS News Web Tv (Para de Minas-MG)
 https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Carioca (Rio de Janeiro-RJ)
-https://a.cdni.live:443/tvcarioca/tvcarioca/chunklist_w582298243.m3u8
+https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/AT7zacR.png" group-title="", TV Caruara (Caruara-PE)
 https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Câmara  Salvador-BA
-https://596639ebdd89b.streamlock.net/8114/8114/chunklist_w287122639.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Difusão (Descalvado-SP)
-https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/chunklist_w213156378.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Vida Nova 
 http://srv1.zcast.com.br:80/tvprecabura/tvprecabura/chunklist_w677928792.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Sucesso
@@ -1418,7 +1412,7 @@ https://5a0c3936c25c8.streamlock.net:443/8032/8032/chunklist_w1804007897.m3u8
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Terceira Via (Campos dos Goytacazes-RJ)
 https://video01.kshost.com.br:4443/terceira7669/terceira7669/chunklist_w1060297041.m3u8
-#EXTINF:0 type="stream" channelId="-1", TVBE/TV Brasil (Joinville-SC)
+#EXTINF:0 type="stream" channelId="-1", Oitimba Tv/Tv Brasil (Joinville-SC)
 https://5c483b9d1019c.streamlock.net:443/8022/8022/chunklist_w1631242272.m3u8
 #EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE RS" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title=" ",TVE/TV Brasil (Santa Tereza-RS)
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
