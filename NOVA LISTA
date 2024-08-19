@@ -1,7 +1,7 @@
 
 #EXTM3U
-#EXTINF:0 tope="stream" channelId="-1",A3S
-http://hls.webredirect.org/83941/mp_9367.php/https://atres-live.atresmedia.com/a79d2977d75174d3ef2e19855a73f2983749f68c_ES_1723533716_1723562456/h264leg/live/a3series/bitrate_2.m3u8
+#EXTINF:0 tope="stream" channelId="-1",Auge TV
+https://video05.logicahost.com.br:443/augetv/augetv/chunklist_w1939779797.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Encontro com Deus
 https://tv02.zas.media:1936/ecd/ecd/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",RTN/TV A Crítica 
