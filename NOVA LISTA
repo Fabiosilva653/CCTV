@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",Super Canal 13
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Auge TV
 https://video05.logicahost.com.br:443/augetv/augetv/chunklist_w1939779797.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Encontro com Deus
