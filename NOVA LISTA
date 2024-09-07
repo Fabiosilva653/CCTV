@@ -4,6 +4,7 @@
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Auge TV
 https://video05.logicahost.com.br:443/augetv/augetv/chunklist_w1939779797.m3u8
+#EXTINF:0 tope="stream" channelId="-1",TV Encontro
 #EXTINF:0 tope="stream" channelId="-1",TV Encontro com Deus
 https://tv02.zas.media:1936/ecd/ecd/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",RTN/TV A Crítica 
@@ -1338,7 +1339,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/chun
 #EXTINF:0 type="stream" channelId="-1", TV Web Paraná (Curitiba-PR)
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist_w1439581461.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Metropolitana Taubaté
-https://cdn.cdnseguro.com/metroguara/metroguara/chunklist_w1935433259.m3u8
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Galega (Blumenau-SC)
 https://cdn.jmvstream.com:443/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV SOL (Patos-PB)
