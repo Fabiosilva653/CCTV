@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",TV Câmara Lins/TV Brasil
+https://canais.redeitv.com.br/canal/tv-camara-lins
 #EXTINF:0 tope="stream" channelId="-1",RIT
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Super Canal 13
