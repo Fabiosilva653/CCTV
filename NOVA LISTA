@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",Hallo Anime
+https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8
+#EXTINF:0 tope="stream" channelId="-1",DreamWorks
+https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v1a1/mono.m3u8
 #EXTINF:0 tope="stream" channelId="-1",ParPlay
 https://stmv1.samcast.com.br/afonso4165/afonso4165/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Alagoinha
