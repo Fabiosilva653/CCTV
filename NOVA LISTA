@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",Rede IBTV
+https://video01.kshost.com.br:4443/k34006/k34006/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Hallo Anime
 https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8
 #EXTINF:0 tope="stream" channelId="-1",DreamWorks
@@ -81,8 +83,6 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Diário
 https://d1zCbcqwsvgqw.cloudfront.net/out/v1/76bb09b140834074b5bfc8500a2a2dad/index.m3u8
-#EXTINF:0 tope="stream" channelId="-1",Poop TV
-https://stream.ichibantv.com:3522/hybrid/play.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Lucas TV
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",CineBrasil TV
@@ -221,7 +221,6 @@ https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/playlist.m3u8
 https://cbtvnow.com:5866/hls/livest2024.m3u8
 #EXTINF:0 type="stream" channelId="-1", BrPlay/Rede Brasil (Pará de Minas-MG)
 http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8?ManoTV
-
 #EXTINF:0 type="stream" channelId="-1", BS TV (Santos-SP)
 https://br5093.streamingdevideo.com.br:443/bstv/bstv/chunklist_w1516982516.m3u8
 #EXTINF: 0 type = "stream" channelId = "- 1", C-Ghost
@@ -320,7 +319,7 @@ https://tv.domustelecom.com.br/media/n/BZiZode5y2GXndi0otaZ/a/playlist.m3u8?ch=B
 https://stmv1.srvif.com/antoniomarcosde5801/antoniomarcosde5801/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Difusora Sul/SBT (Imperatriz-MA)
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
-#EXTINF: 0 type = "stream" channelId = "- 1", Dunas TV (Natal-RN)
+#EXTINF: 0 type = "stream" channelId="-1", Dunas TV (Natal-RN)
 https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",ECO TV ABC
 https://5b7f3c45ab7c2.streamlock.net:443/ecotvabc/ecotvabc/chunklist_w500297731.m3u8
@@ -343,7 +342,6 @@ https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fala Litoral (Balneário Camboriú-SC)
 http://webtv.bitstreaming.info:1935/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/8L8pE8M.png" group-title="", FANDOM TV
-
 #EXTINF:0 type="stream" channelId="-1",Favorita TV (Caçapava-SP)
 https://video01.kshost.com.br:4443/arnaldo5149/arnaldo5149/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", FDR/Futura (Fortaleza-CE)
