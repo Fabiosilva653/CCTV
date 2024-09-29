@@ -35,6 +35,8 @@ https://srv4.zcast.com.br:443/jose5773/jose5773/chunklist_w287468235.m3u8
 https://stmv3.webtvninjas.com.br:443/webtvni1/webtvni1/chunklist_w189453047.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Rede Recon
 https://acesso.ecast.site:3862/hybrid/play.m3u8
+#EXTINF:0 tope="stream" channelId="-1",TV 3 Fronteiras (Nanuque-Ba)
+https://isaocorp.cloudecast.com/tv3fronteiras/tracks-v1/index.fmp4.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Choma TV
 https://5c483b9d1019c.streamlock.net:443/8054/8054/chunklist_w935379705.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Carava Play
