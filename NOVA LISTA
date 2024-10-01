@@ -1,5 +1,8 @@
+
 #EXTM3U
-#EXTINF:0 tope="stream" channelId="-1",Rede IBTV
+#EXTINF:0 tope="stream" channelId="-1",TV Universo 32/TV Cultura
+https://www.pscp.tv/w/1jMJgOwgoYXJL
+#EXTINF:0 tope="stream" channelId="-1",Rede IBTV (São José do Rio Preto-SP)
 https://video01.kshost.com.br:4443/k34006/k34006/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Hallo Anime
 https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8
@@ -9,21 +12,21 @@ https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v1a1/mono.m3u8
 https://stmv1.samcast.com.br/afonso4165/afonso4165/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Alagoinha
 https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1",CBTV
+#EXTINF:0 tope="stream" channelId="-1",CBTV (Fortaleza-CE)
 https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1",Ministério Infantil 
+#EXTINF:0 tope="stream" channelId="-1",Ministério Infantil (Brasília-DF)
 https://stmv4.voxtvhd.com.br:443/%201990/1990/chunklist_w2110630781.m3u8
-#EXTINF:0 tope="stream" channelId="-1",TV Cidade Brasil
+#EXTINF:0 tope="stream" channelId="-1",TV Cidade Brasil (Brasília-DF)
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1",TV Adorador Gospel
+#EXTINF:0 tope="stream" channelId="-1",TV Adorador Gospel (Manaus-AM)
 https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1",TV Recôncavo 
+#EXTINF:0 tope="stream" channelId="-1",TV Recôncavo (Camaçari-BA)
 https://video04.logicahost.com.br:443/tvreconcavo/tvreconcavo/chunklist_w1890392923.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Vox TV
 https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV COM (Santos-SP)
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u
-#EXTINF:0 tope="stream" channelId="-1",TV Rio Preto 
+#EXTINF:0 tope="stream" channelId="-1",TV Rio Preto (São José do Rio Preto-SP)
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist_w496553256.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Tela Brasil TV
 https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
@@ -37,13 +40,13 @@ https://stmv3.webtvninjas.com.br:443/webtvni1/webtvni1/chunklist_w189453047.m3u8
 https://acesso.ecast.site:3862/hybrid/play.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV 3 Fronteiras (Nanuque-Ba)
 https://isaocorp.cloudecast.com/tv3fronteiras/tracks-v1/index.fmp4.m3u8
-#EXTINF:0 tope="stream" channelId="-1",Choma TV
+#EXTINF:0 tope="stream" channelId="-1",Chroma TV (São Paulo-SP)
 https://5c483b9d1019c.streamlock.net:443/8054/8054/chunklist_w935379705.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Carava Play
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1",TV Câmara Lins/TV Brasil
+#EXTINF:0 tope="stream" channelId="-1",TV Câmara Lins/TV Brasil (Lins-SP)
 https://video04.logicahost.com.br:443/camaralins/camaralins/chunklist_w89206519.m3u8
-#EXTINF:0 tope="stream" channelId="-1",RIT
+#EXTINF:0 tope="stream" channelId="-1",RIT (São Paulo-SP)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Super Canal 13/TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
@@ -1471,4 +1474,3 @@ https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1373659104.m3u
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w1583409121.m3u8
 Web Tv Olho D'água (Horizonte-CE)
 https://stmv1.liveplushd.com.br/tvolhodaguaweb/tvolhodaguaweb/chunklist_w1466364208.m3u8
-
