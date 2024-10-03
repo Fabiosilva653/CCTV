@@ -1,7 +1,7 @@
 
 #EXTM3U
 #EXTINF:0 tope="stream" channelId="-1",TV Universo 32/TV Cultura
-https://www.pscp.tv/w/1jMJgOwgoYXJL
+https://www.pscp.tv/w/1jMJgOwgoYXJL.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Rede IBTV (São José do Rio Preto-SP)
 https://video01.kshost.com.br:4443/k34006/k34006/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Hallo Anime
