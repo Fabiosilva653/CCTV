@@ -3,17 +3,17 @@
 
 #EXTINF:0 tope="stream" channelId="-1",PenTV
 https://stmv8.samcast.com.br/ritagabriele2079/ritagabriele2079/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1"TV Alfenas (Alfenas-MG)
+#EXTINF:0 tope="stream" channelId="-1",TV Alfenas (Alfenas-MG)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15327/playlist/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1"TVC (Potiraguá-BA)
+#EXTINF:0 tope="stream" channelId="-1",TVC (Potiraguá-BA)
 https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1"TV PLUG (Itaiçaba-CE)
+#EXTINF:0 tope="stream" channelId="-1",TV PLUG (Itaiçaba-CE)
 https://stmv3.voxtvhd.com.br/tvplug/tvplug/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1"TV Mocinha (Balneário Camboriú-SC)
+#EXTINF:0 tope="stream" channelId="-1",TV Mocinha (Balneário Camboriú-SC)
 https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1"TV Caiuá/Rede TV (Umuarama-PR)
+#EXTINF:0 tope="stream" channelId="-1",TV Caiuá/Rede TV (Umuarama-PR)
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:0 tope="stream" channelId="-1"TV Floresta/SBT (Tucuruí-PA)
+#EXTINF:0 tope="stream" channelId="-1",TV Floresta/SBT (Tucuruí-PA)
 https://live-hls-cdn.livepush.io/live_cdn/emVqPK2sSrR_sJM/index.m3u8?session_id=6527001585515146
 
 #EXTINF:0 tope="stream" channelId="-1",TV Jornal Meio Norte (Teresina-PI)
