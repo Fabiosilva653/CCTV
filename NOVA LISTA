@@ -1,6 +1,9 @@
 
 #EXTM3U
-
+#EXTINF:0 tope="stream" channelId="-1",TV Brasil Internacional (Brasília-DF)
+https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
+#EXTINF:0 tope="stream" channelId="-1",TV TV Ponta Verde (Maceió-AL
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Guará/Rede TV (Caxias-MA)
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Coop (Florianópolis-SC)
