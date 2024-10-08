@@ -1,7 +1,8 @@
 
 #EXTM3U
 #EXTINF:0 tope="stream" channelId="-1"
-#EXTINF:0 tope="stream" channelId="-1"
+#EXTINF:0 tope="stream" channelId="-1"TVC (Potiraguá-BA)
+https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1"TV PLUG (Itaiçaba-CE)
 https://stmv3.voxtvhd.com.br/tvplug/tvplug/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1"TV Mocinha (Balneário Camboriú-SC)
