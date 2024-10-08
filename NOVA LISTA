@@ -1,8 +1,10 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",Rede Cerrado (Novo Gama-GO)
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Brasil Internacional (Brasília-DF)
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
-#EXTINF:0 tope="stream" channelId="-1",TV TV Ponta Verde (Maceió-AL
+#EXTINF:0 tope="stream" channelId="-1",TV Ponta Verde (Maceió-AL
 https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Guará/Rede TV (Caxias-MA)
 https://srv1.zcast.com.br/igo8807/igo8807/playlist.m3u8
