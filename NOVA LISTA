@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1"TV Floresta/SBT (Tucuruí-PA)
+https://live-hls-cdn.livepush.io/live_cdn/emVqPK2sSrR_sJM/index.m3u8?session_id=6527001585515146
 #EXTINF:0 tope="stream" channelId="-1",PenTV
 https://stmv8.samcast.com.br/ritagabriele2079/ritagabriele2079/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Jornal Meio Norte (Teresina-PI)
