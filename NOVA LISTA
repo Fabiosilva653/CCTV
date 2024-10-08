@@ -1,7 +1,8 @@
 
 #EXTM3U
 #EXTINF:0 tope="stream" channelId="-1"TV 
-#EXTINF:0 tope="stream" channelId="-1"TV 
+#EXTINF:0 tope="stream" channelId="-1"TV Mocinha (Balneário Camboriú-SC)
+https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1"TV Caiuá/Rede TV (Umuarama-PR)
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1"TV Floresta/SBT (Tucuruí-PA)
