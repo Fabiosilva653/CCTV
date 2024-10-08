@@ -1117,7 +1117,7 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Rede Metrópole/Rede Meio Norte (Assis-SP)
 
-https://acesso.ecast.site:3456/hybrid/play.m3u8
+https://isaocorp.cloudecast.com/tv_meio/index.m3u8
 
 #EXTINF: 0 type = "stream" channelId = "- 1", Rede Minas (Belo Horizonte-MG)
 
