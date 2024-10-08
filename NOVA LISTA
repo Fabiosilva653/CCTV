@@ -1,5 +1,6 @@
 
 #EXTM3U
+
 #EXTINF:0 tope="stream" channelId="-1"TV Alfenas (Alfenas-MG)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15327/playlist/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1"TVC (Potiraguá-BA)
