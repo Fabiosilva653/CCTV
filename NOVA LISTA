@@ -1,12 +1,11 @@
 
 #EXTM3U
 
+#EXTINF:0 tope="stream" channelId="-1",TVCB (Campos Belos-GO)
+https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Marrecas/RBTV
-
 https://5cf4a2c2512a2.streamlock.net/8290/8290/playlist.m3u8
-
 #EXTINF:0 tope="stream" channelId="-1",Rede Sempre
-
 https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8
 
 #EXTINF:0 tope="stream" channelId="-1",TV Tudo
