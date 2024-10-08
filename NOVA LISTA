@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1",TV Jornal Meio Norte (Teresina-PI)
+https://streaming.jornalmn.com.br/live/tvjornalmn.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Rede Cerrado (Novo Gama-GO)
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Brasil Internacional (Brasília-DF)
