@@ -49,9 +49,13 @@ https://video01.kshost.com.br:4443/k34006/k34006/playlist.m3u8
 
 https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8
 
-#EXTINF:0 tope="stream" channelId="-1",DreamWorks
-https://embedcanaistv.site:443/dreamworkschannel/tracks-v1a1/mono.m3u8
+#EXTINF:0 tope="stream" channelId="-1",DreamWorks1
+https://ultratvonline.org/assistir-dreamworks-channel-ao-vivo/
+#EXTINF:0 tope="stream" channelId="-1",DreamWorks2
+https://embedcanaistv.site/dreamworkschannel/video.m3u8
 
+#EXTINF:0 tope="stream" channelId="-1",DreamWorks3
+https://embedcanaistv.site/dreamworkschannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 tope="stream" channelId="-1",ParPlay
 
 https://stmv1.samcast.com.br/afonso4165/afonso4165/playlist.m3u8
