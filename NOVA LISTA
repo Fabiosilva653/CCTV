@@ -36,17 +36,11 @@ https://5cf4a2c2512a2.streamlock.net/8290/8290/playlist.m3u8
 https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8
 
 #EXTINF:0 tope="stream" channelId="-1",TV Tudo
-
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
-
 #EXTINF:0 tope="stream" channelId="-1",TV Aliança Catarinense (São Bento do Sul-SC)
-
 https://video05.logicahost.com.br/lifesctv/lifesctv/playlist.m3u8
-
 #EXTINF:0 tope="stream" channelId="-1",TV Universo 32/TV Cultura
-
 https://www.pscp.tv/w/1jMJgOwgoYXJL
-
 #EXTINF:0 tope="stream" channelId="-1",Rede IBTV (São José do Rio Preto-SP)
 
 https://video01.kshost.com.br:4443/k34006/k34006/playlist.m3u8
@@ -56,8 +50,7 @@ https://video01.kshost.com.br:4443/k34006/k34006/playlist.m3u8
 https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8
 
 #EXTINF:0 tope="stream" channelId="-1",DreamWorks
-
-https://cdn-5.nxplay.com.br/DREAMWORKS/tracks-v1a1/mono.m3u8
+https://embedcanaistv.site:443/dreamworkschannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tope="stream" channelId="-1",ParPlay
 
