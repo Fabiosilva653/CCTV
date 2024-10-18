@@ -51,11 +51,6 @@ https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8
 
 #EXTINF:0 tope="stream" channelId="-1",DreamWorks1
 https://ultratvonline.org/assistir-dreamworks-channel-ao-vivo/
-#EXTINF:0 tope="stream" channelId="-1",DreamWorks2
-https://embedcanaistv.site/dreamworkschannel/video.m3u8
-
-#EXTINF:0 tope="stream" channelId="-1",DreamWorks3
-https://embedcanaistv.site/dreamworkschannel/tracks-v1a1/mono.m3u8
 #EXTINF:0 tope="stream" channelId="-1",ParPlay
 
 https://stmv1.samcast.com.br/afonso4165/afonso4165/playlist.m3u8
@@ -557,8 +552,8 @@ https://a.cdni.live/tvcanalricos/tvcanalricos/playlist.m3u8
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 
 #EXTINF: 0 type = "stream" channelId = "- 1", Canal Saúde (Rio de Janeiro-RJ)
+https://edge-df-01.eduplay.rnp.br/media/ocp(r(tozTwQ)t(F_-MR2OQXFE)p(d(iNo)k(LpA)m(-Jd8WHhdWd0WxwppKhl_dw)n(a(igFPVTZDm67QRZ_CG1bidR2Xijo)s(4aA)'a(4aCQgFMBzlVdIRnju-4GmZb2)s(y64)'a(kGBIyFXHU9jZ7YIeotyCGJ56)s(-fI)))s(t(8O4)b(MTwPyki6S66Z4ewkh6206fUduY52rDSPwSxioN-3K5tj05A0t5cTfE4L_nHcSNFQJAKRoeMjxgMl7OdMkgZCpn8ILdLHOvw05bbJvufAd-SIrunxq5mWkVcBn4e2uvu2_1QzFbfHa65XgXOFg9VXR83QnaVo4U9PEqVRmS0)'t(Kfg)b(DNYjd2KHYDWqfldMICIwx1qMHx0XAwWhkP4)))/index.m3u8
 
-https://edge-df-01.eduplay.rnp.br/media/ocp(r(UlhN9w)t(F9XnYgtwu-Y)p(d(pz4)k(gAc)m(KahUSS6ZTOzMat5-tZP-BQ)n(a(qMkpIAEhPCfnZwyzbu-mV-fO7WE)s(jRY)'a(ocVvf5iQW5TYaKTJBesyjLGQ)s(dDw)))s(t(MDE)b(cVBTO5xhQvlFzYq8PutAHevE9DdfkSmKzfD_iX_LVuseTyGUfmVgFtZY8h7gzZbBB-x-Z7dc7Tw0SLwu6cbKAr0JRKcXF7VwQ8qltV4aL_nUw8U4HFg-Xqx5kYOc4mfYls3jc81h8NVlLrL8h77-hGBYriB0EPMKqInfQP0)'t(Tro)b(HzibxWV7_zvi38LW2OkVGNrnL7wHHl175wE)))/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1", Canal Sete (São Sebastião do Paraiso-MG)
 
