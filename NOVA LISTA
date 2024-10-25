@@ -1,6 +1,6 @@
-
 #EXTM3U
-
+#EXTINF:0 tope="stream" channelId="-1",Afrobeats
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0 tope="stream" channelId="-1",PenTV
 https://stmv8.samcast.com.br/ritagabriele2079/ritagabriele2079/playlist.m3u8
 #EXTINF:0 tope="stream" channelId="-1",TV Alfenas (Alfenas-MG)
