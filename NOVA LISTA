@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 tope="stream" channelId="-1",Sportv 2
-https://ddy6new.koskoros.ru/ddy6/premium79/mono.m3u8
+#EXTINF:0 tope="stream" channelId="-1", BBC
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Afrobeats
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:0 tope="stream" channelId="-1",PenTV
