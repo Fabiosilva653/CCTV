@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 tope="stream" channelId="-1", TNT
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:0 tope="stream" channelId="-1", BBC AMERICA
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:0 tope="stream" channelId="-1", BBC
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
 #EXTINF:0 tope="stream" channelId="-1",Afrobeats
