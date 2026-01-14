@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tope="stream" channelId="-1", Love Nature
+https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:0 tope="stream" channelId="-1", BBC AMERICA
 https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:0 tope="stream" channelId="-1", BBC
